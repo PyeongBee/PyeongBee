@@ -1,4 +1,10 @@
-### Hi there 👋
+
+### 안녕하세요 👋 평비입니다! 🐝
+
+실제로 도움이 될 수 있는 서비스 개발을 합니다.
+
+- LG CNS 빌드센터에서 일하고 있습니다.
+- 웹 개발 경력이 많지 않습니다. 많은 지적 부탁 드립니다!
 
 <!--
 **PyeongBee/PyeongBee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
