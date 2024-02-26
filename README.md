@@ -10,7 +10,7 @@
 🐝 **컨설턴트 평비**
 - LG CNS 자소서 첨삭을 도와드리고 있습니다. ( [크몽](https://kmong.com/gig/510359) )
 - LG CNS 모의 면접을 도와드리고 있습니다. ( [크몽](https://kmong.com/gig/526344) )
-- LG CNS 현직자 Q&A 단톡방을 운영하고 있습니다. ([오픈카톡방](https://open.kakao.com/o/gbuVErVf))
+- LG CNS 현직자 Q&A 단톡방을 운영하고 있습니다. ( [오픈카톡방](https://open.kakao.com/o/gbuVErVf) )
 
 <!--
 **PyeongBee/PyeongBee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
