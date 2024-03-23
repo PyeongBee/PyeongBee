@@ -4,6 +4,7 @@
 실제로 도움이 될 수 있는 서비스 개발을 합니다.
 
 [![Solved.ac_profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=pyeongbee0806)](https://solved.ac/pyeongbee0806)
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=pyeongbee0806&theme=warm)
 
 👨‍💻 **개발자 평비**
 - LG CNS 빌드센터에서 일하고 있습니다.
