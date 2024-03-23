@@ -11,9 +11,10 @@
 - 기술 스택  
 ![JAVA](https://img.shields.io/badge/Java-red.svg?&style=for-the-badge&logo=Gradle&logoColor=white)
 ![SPRING](https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![PYTHON](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
+![ORACLE](https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![JAVASCRIPT](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black)
 ![REACT](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![PYTHON](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
 
 🐝 **컨설턴트 평비**
 - LG CNS 자소서 첨삭을 도와드리고 있습니다. ( [크몽](https://kmong.com/gig/510359) )
