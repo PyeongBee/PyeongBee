@@ -9,13 +9,13 @@
 👨‍💻 **개발자 평비**
 - LG CNS 빌드센터에서 일하고 있습니다.
 - 풀스택 개발자로 일하면서, 백엔드에 좀 더 집중합니다.
-- Front-end  
+- **Front-end**  
 ![JAVASCRIPT](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black)
 ![TYPESCRIPT](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white)
 ![REACT](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![NEXT](https://img.shields.io/badge/Next-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
-- Back-end  
+- **Back-end**  
 ![JAVA](https://img.shields.io/badge/Java-red.svg?&style=for-the-badge&logo=Gradle&logoColor=white)
 ![SPRING](https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![ORACLE](https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
