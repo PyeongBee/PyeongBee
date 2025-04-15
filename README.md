@@ -1,22 +1,10 @@
 
 ### 안녕하세요 👋 평비입니다! 🐝
 
-실제로 도움이 될 수 있는 서비스 개발을 합니다.
-
-💻 **알고리즘**  
-<br />
-[![Solved.ac_profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=pyeongbee0806)](https://solved.ac/pyeongbee0806)
-![mazandi profile](http://mazandi.herokuapp.com/api?handle=pyeongbee0806&theme=warm)
-- 2024-03-18 100솔
-- 2024-03-23 Class 2++
-- 2024-04-11 실버1
-- 2024-04-14 Class 3
-- 2024-04-27 골드5
-- 2024-04-27 Class 3+
-- 2024-05-08 200솔
+실제로 도움이 될 수 있는 서비스 개발을 합니다.  
 
 <br />
-
+  
 👨‍💻 **개발자 평비**
 - LG CNS 빌드센터에서 일하고 있습니다.
 - 풀스택 개발자로 일하면서, 백엔드에 좀 더 집중합니다.
@@ -39,6 +27,20 @@
 ![TERRAFORM](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ![JENKINS](https://img.shields.io/badge/Jenkins-49728B?style=for-the-badge&logo=jenkins&logoColor=white)
 <!-- 뱃지 참고: https://github.com/alexandresanlim/Badges4-README.md-Profile -->
+
+<br />
+
+💻 **알고리즘**  
+<br />
+[![Solved.ac_profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=pyeongbee0806)](https://solved.ac/pyeongbee0806)
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=pyeongbee0806&theme=warm)
+- 2024-03-18 100솔
+- 2024-03-23 Class 2++
+- 2024-04-11 실버1
+- 2024-04-14 Class 3
+- 2024-04-27 골드5
+- 2024-04-27 Class 3+
+- 2024-05-08 200솔
 
 <br />
 
