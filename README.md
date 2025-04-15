@@ -38,6 +38,7 @@
 - LG CNS 자소서 첨삭을 도와드리고 있습니다. ( [크몽](https://kmong.com/gig/510359) )
 - LG CNS 자소서 첨삭을 위한 GPT를 제공하고 있습니다. ( [GPTs](https://chatgpt.com/g/g-67f6013ed0348191bc4ee9a175799eae-pyeongbiyi-lsa-cun-jasoseo-ceomsag-dx-cam) )
 - LG CNS 현직자 Q&A 단톡방을 운영하고 있습니다. ( [오픈카톡방](https://open.kakao.com/o/gbuVErVf) )
+- LG CNS를 비롯한 개발자 취업을 도와주는 블로그를 운영하고 있습니다. ( [개발자취업비법 - 티스토리](https://gatchbee.tistory.com/) )
 
 <!--
 **PyeongBee/PyeongBee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
