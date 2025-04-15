@@ -32,6 +32,14 @@
 ![ORACLE](https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![PYTHON](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
 
+- **DevOps**  
+![DOCKER](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![K8S](https://img.shields.io/badge/Kubernetes-3069DE?style=for-the-badge&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-orange.svg?&style=for-the-badge&logo=amazonwebservices&logoColor=black)
+![TERRAFORM](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![JENKINS](https://img.shields.io/badge/Jenkins-49728B?style=for-the-badge&logo=jenkins&logoColor=white)
+<!-- 뱃지 참고: https://github.com/alexandresanlim/Badges4-README.md-Profile -->
+
 <br />
 
 🐝 **컨설턴트 평비**
