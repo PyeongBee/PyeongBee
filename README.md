@@ -29,7 +29,7 @@
 <!-- 뱃지 참고: https://github.com/alexandresanlim/Badges4-README.md-Profile -->
 
 <br />
-
+<!--
 💻 **알고리즘**  
 <br />
 [![Solved.ac_profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=pyeongbee0806)](https://solved.ac/pyeongbee0806)
@@ -42,7 +42,8 @@
 - 2024-04-27 Class 3+
 - 2024-05-08 200솔
 
-<br />
+<br /> 
+-->
 
 🐝 **컨설턴트 평비**
 - LG CNS 자소서 첨삭을 도와드리고 있습니다. ( [크몽](https://kmong.com/gig/510359) )
